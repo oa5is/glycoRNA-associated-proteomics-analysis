@@ -34,7 +34,7 @@ library(clusterProfiler)
 library(org.Hs.eg.db)
 
 protein_df <- read_tsv(
-  "/data/LFQ_rGAL/combined_protein.tsv",
+  "LFQ_rGAL/combined_protein.tsv",
   show_col_types = FALSE
 )
 
