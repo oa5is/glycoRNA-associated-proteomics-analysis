@@ -1,6 +1,7 @@
 # glycoRNA-associated-proteomics-analysis
 Custom R scripts and processed LFQ proteomics data for identification and downstream analysis of glycoRNA-associated proteins using rGAL- and rPAL-based enrichment.
-# GlycoRBP Proteomics Analysis
+
+# Quantitative GlycoRNA Associated Proteomics Analysis
 
 This repository contains the processed label-free quantitative (LFQ) proteomics data using FragPipe(v23.1) and custom R scripts used for the downstream analysis of glycoRNA-core associated proteins enriched using **rGAL** and **rPAL** labeling strategies.
 
